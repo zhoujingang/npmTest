@@ -11,4 +11,4 @@ class MainCommand extends Command {
 }
  
 module.exports = MainCommand;
-// new MainCommand().start();
+new MainCommand().start();
